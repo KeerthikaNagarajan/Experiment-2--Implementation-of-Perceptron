@@ -1,4 +1,6 @@
-# Experiment-2--Implementation-of-Perceptron
+# Ex.No-2
+# Implementation-of-Perceptron
+
 ## AIM
 To implement a perceptron for classification using Python
 
@@ -107,6 +109,7 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
 ```
+
 ## OUTPUT
 ### Dataset
 <img width="420" alt="Screenshot 2023-09-23 114358" src="https://github.com/KeerthikaNagarajan/Experiment-2--Implementation-of-Perceptron/assets/93427089/8fa0d400-263c-4203-8603-3ac50494d948">
